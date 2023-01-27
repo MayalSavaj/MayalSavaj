@@ -1,3 +1,3 @@
-[<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="300" hight="100" />](./link/to/sql/file)
+[<img src="https://www.wallpapertip.com/wmimgs/160-1606283_web-developer-wallpaper.jpg" width="100%" hight="200" />]
 <h1 align="center">Hi 👋, I'm Mayal Savaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
