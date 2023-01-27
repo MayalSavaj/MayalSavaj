@@ -33,6 +33,9 @@
   <div class="progress">
     <div class="progress-bar" style="width:70%">70%</div>
   </div>
+  div class="progress">
+    <div class="progress-bar" style="width:70%">70%</div>
+  </div>
 </div>
 
 </body>
