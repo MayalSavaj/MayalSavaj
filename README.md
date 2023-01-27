@@ -15,19 +15,77 @@
 <a href="https://linkedin.com/in/mayal savaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayal savaj" height="30" width="40" /></a>
 <a href="https://instagram.com/mayal_savaj_002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayal_savaj_002" height="30" width="40" /></a>
 </p>
-<div class="w3-container">
-  <h2>Rounded Progress Bars</h2>
-  <p>Use any of the <strong>w3-round</strong> classes to add rounded corners to progress bars:</p>
 
-  <div class="w3-light-grey w3-round">
-    <div class="w3-container w3-blue w3-round" style="width:25%">25%</div>
-  </div><br>
 
-  <div class="w3-light-grey w3-round-large">
-    <div class="w3-container w3-blue w3-round-large" style="width:25%">25%</div>
-  </div><br>
+<!-- Code for the new pen -->
 
-  <div class="w3-light-grey w3-round-xlarge">
-    <div class="w3-container w3-blue w3-round-xlarge" style="width:25%">25%</div>
+<div class="container">
+
+  <div class="container__progressbars">
+
+    <div class="progressbar">
+      <svg class="progressbar__svg">
+        <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-html shadow-html"> </circle>
+      </svg>
+      <span class="progressbar__text shadow-html">HTML</span>
+    </div>
+
+    <div class="progressbar">
+      <svg class="progressbar__svg">
+        <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-css shadow-css"> </circle>
+      </svg>
+      <span class="progressbar__text shadow-css">CSS</span>
+    </div>
+
+    <div class="progressbar">
+      <svg class="progressbar__svg">
+        <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-scss shadow-scss"> </circle>
+      </svg>
+      <span class="progressbar__text shadow-scss">SCSS</span>
+    </div>
+
+    <div class="progressbar">
+      <svg class="progressbar__svg">
+        <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-js shadow-js"> </circle>
+      </svg>
+      <span class="progressbar__text shadow-js">JavaScript</span>
+    </div>
+
+    <div class="progressbar">
+      <svg class="progressbar__svg">
+        <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-ts shadow-ts"> </circle>
+      </svg>
+      <span class="progressbar__text shadow-ts">TypeScript</span>
+    </div>
+
+    <div class="progressbar">
+      <svg class="progressbar__svg">
+        <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-node shadow-node"> </circle>
+      </svg>
+      <span class="progressbar__text shadow-node">Node.js</span>
+    </div>
+
+    <div class="progressbar">
+      <svg class="progressbar__svg">
+        <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-react shadow-react"> </circle>
+      </svg>
+      <span class="progressbar__text shadow-react">React.js</span>
+    </div>
+    <div class="progressbar">
+      <svg class="progressbar__svg">
+        <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-angular shadow-angular"> </circle>
+      </svg>
+      <span class="progressbar__text shadow-angular">Angular.js</span>
+    </div>
+    <div class="progressbar">
+      <svg class="progressbar__svg">
+        <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-vue shadow-vue"> </circle>
+      </svg>
+      <span class="progressbar__text shadow-vue">Vue.js</span>
+    </div>
   </div>
+
 </div>
+
+<!-- My social networks (imported from another pen)-->
+<div id="main-container-social" class="main-container-social"></div>
