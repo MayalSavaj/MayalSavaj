@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif"  align="right" width="400" height="250" />
+<img src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif"  align="right" width="400" height="250" />
 
 
 - 🌱 I’m currently learning **React js**
